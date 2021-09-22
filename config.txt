@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="ProductName_1.1.0"
+BeginPrompt="Already to Install ProductName_1.1.0?"
+ExecuteFile="release\ProductName_1.1.0.msi"
+;!@InstallEnd@!
